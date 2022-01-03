@@ -1,3 +1,8 @@
+[![GitHub last commit](https://img.shields.io/github/last-commit/pai-pai/python-practice.svg)](https://github.com/pai-pai/python-practice)
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/pai-pai/python-practice.svg)](https://github.com/pai-pai/python-practice)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pai-pai/python-practice.svg)](https://github.com/pai-pai/python-practice)
+[![GitHub stars](https://img.shields.io/github/stars/pai-pai/python-practice.svg)](https://github.com/pai-pai/python-practice)
+
 ### Algorithms
 There are some algorithmic HackerRank and LeetCode problems with Python 3 solutions (with explanations sometimes...).
 - Binary Search
