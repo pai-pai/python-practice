@@ -1,6 +1,7 @@
 ### Algorithms
 There are some algorithmic HackerRank and LeetCode problems with Python 3 solutions (with explanations sometimes...).
 - Binary Search
+  - [Binary Search](https://leetcode.com/problems/binary-search/) [Easy | LeetCode]
   - [First Bad Version](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
   - [Median of Two Sorted Arrays of Different Size](https://leetcode.com/problems/median-of-two-sorted-arrays/) [Hard | LeetCode]
   - Median of Two Sorted Arrays of Same Size
