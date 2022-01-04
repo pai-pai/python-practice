@@ -21,6 +21,10 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [Easy | LeetCode]
 ___
 ### Data Structures
+- Hash Map
+  - [Two Sum](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
+- Linked List
+  - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [Medium | LeetCode]
 
 ___
 ### Statistics
