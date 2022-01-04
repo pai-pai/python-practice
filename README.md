@@ -15,6 +15,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) [Medium | HackerRank]
 - Two Pointer
   - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Easy | LeetCode]
+  - [Rotate Array](https://leetcode.com/problems/rotate-array/) [Medium | LeetCode]
   - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [Easy | LeetCode]
   - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [Easy | LeetCode]
 ___
