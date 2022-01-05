@@ -30,6 +30,8 @@ ___
   - [Two Sum](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
 - Linked List
   - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [Medium | LeetCode]
+- Stack
+  - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [Easy | LeetCode]
 - String
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [Easy | LeetCode]
 ___
