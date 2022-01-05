@@ -30,7 +30,8 @@ ___
   - [Two Sum](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
 - Linked List
   - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [Medium | LeetCode]
-
+- String
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [Easy | LeetCode]
 ___
 ### Statistics
 Contains a part of theory with examples (with code solution if possible) and explanations for HackerRank's **10 Days of Statistics**.
