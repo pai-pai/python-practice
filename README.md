@@ -24,6 +24,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
 ___
 ### Data Structures
 - Hash Map
+  - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) [Easy | LeetCode]
   - [Two Sum](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
 - Linked List
   - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [Medium | LeetCode]
