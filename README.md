@@ -14,6 +14,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
 - Constructive Algorithms
   - [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) [Medium | HackerRank]
 - Sliding Window
+  - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [Easy | LeetCode]
   - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Medium | LeetCode]
 - Two Pointer
   - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [Easy | LeetCode]
