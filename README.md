@@ -20,6 +20,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [Easy | LeetCode]
   - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [Easy | LeetCode]
   - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Easy | LeetCode]
+  - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Medium | LeetCode]
   - [Reverse String](https://leetcode.com/problems/reverse-string/) [Easy | LeetCode]
   - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [Easy | LeetCode]
   - [Rotate Array](https://leetcode.com/problems/rotate-array/) [Medium | LeetCode]
