@@ -17,6 +17,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [Easy | LeetCode]
   - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Medium | LeetCode]
 - Two Pointer
+  - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [Easy | LeetCode]
   - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [Easy | LeetCode]
   - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Easy | LeetCode]
   - [Reverse String](https://leetcode.com/problems/reverse-string/) [Easy | LeetCode]
