@@ -34,6 +34,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
 ___
 ### Data Structures
 - Hash Map
+  - [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) [Easy | HackerRank]
   - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) [Easy | LeetCode]
   - [Two Sum](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
 - Linked List
