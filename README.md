@@ -15,6 +15,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) [Medium | HackerRank]
 - Depth-First Search
   - [Flood Fill](https://leetcode.com/problems/flood-fill/) [Easy | LeetCode]
+  - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [Medium | LeetCode]
 - Sliding Window
   - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Medium | LeetCode]
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [Easy | LeetCode]
