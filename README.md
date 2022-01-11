@@ -48,6 +48,10 @@ ___
 - String
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [Easy | LeetCode]
 ___
+### Dynamic Programming
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
+- N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
+___
 ### Statistics
 Contains a part of theory with examples (with code solution if possible) and explanations for HackerRank's **10 Days of Statistics**.
 - Mean, Median, Mode
