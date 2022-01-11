@@ -33,6 +33,9 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [Easy | LeetCode]
 ___
 ### Data Structures
+- Binary Tree
+  - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) [Easy | LeetCode]
+  - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [Medium | LeetCode]
 - Hash Map
   - [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) [Easy | HackerRank]
   - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) [Easy | LeetCode]
