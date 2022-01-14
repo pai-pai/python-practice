@@ -22,6 +22,11 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
 - Depth-First Search
   - [Flood Fill](https://leetcode.com/problems/flood-fill/) [Easy | LeetCode]
   - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [Medium | LeetCode]
+- Dynamic Programming
+  - [01 Matrix](https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
+  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
+  - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
+  - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
 - Sliding Window
   - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Medium | LeetCode]
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [Easy | LeetCode]
@@ -53,12 +58,6 @@ ___
   - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [Easy | LeetCode]
 - String
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [Easy | LeetCode]
-___
-### Dynamic Programming
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
-- [01 Matrix] (https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
-- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
-- N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
 ___
 ### Statistics
 Contains a part of theory with examples (with code solution if possible) and explanations for HackerRank's **10 Days of Statistics**.
