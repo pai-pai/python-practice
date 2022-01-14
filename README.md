@@ -26,6 +26,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [01 Matrix](https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
+  - [House Robber](https://leetcode.com/problems/house-robber/) [Medium | LeetCode]
   - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
 - Sliding Window
   - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Medium | LeetCode]
