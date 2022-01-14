@@ -57,6 +57,7 @@ ___
 ### Dynamic Programming
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
 - [01 Matrix] (https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
 - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
 ___
 ### Statistics
