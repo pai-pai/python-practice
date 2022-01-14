@@ -5,6 +5,10 @@
 
 ### Algorithms
 There are some algorithmic HackerRank and LeetCode problems with Python 3 solutions (with explanations sometimes...).
+- Backtracking
+  - [Combinations](https://leetcode.com/problems/combinations/) [Medium | LeetCode]
+  - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [Medium | LeetCode]
+  - [Permutations](https://leetcode.com/problems/permutations/) [Medium | LeetCode]
 - Binary Search
   - [Binary Search](https://leetcode.com/problems/binary-search/) [Easy | LeetCode]
   - [First Bad Version](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
