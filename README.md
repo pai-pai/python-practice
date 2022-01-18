@@ -16,6 +16,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - Median of Two Sorted Arrays of Same Size
   - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [Easy | LeetCode]
 - Bit Manipulation
+  - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) Easy | LeetCode]
   - [Power of Two](https://leetcode.com/problems/power-of-two/) [Easy | LeetCode]
 - Breadth-First Search
   - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) [Medium | LeetCode]
