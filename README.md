@@ -18,6 +18,8 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
 - Bit Manipulation
   - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) Easy | LeetCode]
   - [Power of Two](https://leetcode.com/problems/power-of-two/) [Easy | LeetCode]
+  - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) [Easy | LeetCode]
+  - [Single Number](https://leetcode.com/problems/single-number/) [Easy | LeetCode]
 - Breadth-First Search
   - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) [Medium | LeetCode]
 - Constructive Algorithms
