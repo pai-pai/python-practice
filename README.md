@@ -32,6 +32,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
   - [House Robber](https://leetcode.com/problems/house-robber/) [Medium | LeetCode]
+  - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [Easy | LeetCode]
   - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
   - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [Easy | LeetCode]
   - [Triangle](https://leetcode.com/problems/triangle/) [Medium | LeetCode]
