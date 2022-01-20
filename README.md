@@ -30,6 +30,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
 - Dynamic Programming
   - [01 Matrix](https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
+  - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [Medium | LeetCode]
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
   - [House Robber II](https://leetcode.com/problems/house-robber-ii/) [Medium | LeetCode]
   - [House Robber](https://leetcode.com/problems/house-robber/) [Medium | LeetCode]
