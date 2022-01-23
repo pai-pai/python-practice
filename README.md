@@ -36,6 +36,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [House Robber](https://leetcode.com/problems/house-robber/) [Medium | LeetCode]
   - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) [Medium | LeetCode]
   - [Jump Game](https://leetcode.com/problems/jump-game/) [Medium | LeetCode]
+  - [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) [Medium | LeetCode]
   - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [Medium | LeetCode]
   - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [Easy | LeetCode]
   - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) [Medium | LeetCode]
