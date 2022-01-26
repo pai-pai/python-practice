@@ -32,6 +32,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [Medium | LeetCode]
+  - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Easy | LeetCode]
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
   - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [Medium | LeetCode]
@@ -47,7 +48,9 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [Easy | LeetCode]
   - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
   - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [Easy | LeetCode]
+  - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [Hard | LeetCode]
   - [Triangle](https://leetcode.com/problems/triangle/) [Medium | LeetCode]
+  - [Word Break](https://leetcode.com/problems/word-break) [Medium | LeetCode]
 - Sliding Window
   - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Medium | LeetCode]
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [Easy | LeetCode]
