@@ -29,6 +29,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [Medium | LeetCode]
 - Dynamic Programming
   - [01 Matrix](https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
+  - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [Medium | LeetCode]
   - [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [Medium | LeetCode]
