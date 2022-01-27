@@ -36,6 +36,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Easy | LeetCode]
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
+  - [Decode Ways](https://leetcode.com/problems/decode-ways/) [Medium | LeetCode]
   - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [Medium | LeetCode]
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
   - [House Robber II](https://leetcode.com/problems/house-robber-ii/) [Medium | LeetCode]
