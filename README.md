@@ -52,6 +52,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [Easy | LeetCode]
   - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [Hard | LeetCode]
   - [Triangle](https://leetcode.com/problems/triangle/) [Medium | LeetCode]
+  - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) [Medium | LeetCode]
   - [Word Break](https://leetcode.com/problems/word-break) [Medium | LeetCode]
 - Sliding Window
   - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Medium | LeetCode]
