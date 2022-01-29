@@ -50,6 +50,8 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [Easy | LeetCode]
   - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
   - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [Easy | LeetCode]
+  - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [Easy | LeetCode]
+  - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [Easy | LeetCode]
   - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [Hard | LeetCode]
   - [Triangle](https://leetcode.com/problems/triangle/) [Medium | LeetCode]
   - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) [Medium | LeetCode]
