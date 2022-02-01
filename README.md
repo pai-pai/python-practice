@@ -59,6 +59,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Triangle](https://leetcode.com/problems/triangle/) [Medium | LeetCode]
   - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) [Medium | LeetCode]
   - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) [Medium | LeetCode]
+  - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) [Medium | LeetCode]
   - [Unique Paths](https://leetcode.com/problems/unique-paths/) [Medium | LeetCode]
   - [Word Break](https://leetcode.com/problems/word-break) [Medium | LeetCode]
 - Sliding Window
