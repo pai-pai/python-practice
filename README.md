@@ -36,7 +36,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [Medium | LeetCode]
   - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Easy | LeetCode]
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
-  - [Decode Ways](https://leetcode.com/problems/decode-ways/) [Medium | LeetCode]
+  - [Decode Ways](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Decode%20Ways.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/decode-ways/)]
   - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [Medium | LeetCode]
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
   - [House Robber II](https://leetcode.com/problems/house-robber-ii/) [Medium | LeetCode]
@@ -50,7 +50,9 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) [Medium | LeetCode]
   - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [Easy | LeetCode]
   - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [Medium | LeetCode]
+  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [Medium | LeetCode]
   - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
+  - [Maximal Square](https://leetcode.com/problems/maximal-square/) [Medium | LeetCode]
   - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [Easy | LeetCode]
   - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [Easy | LeetCode]
   - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [Easy | LeetCode]
