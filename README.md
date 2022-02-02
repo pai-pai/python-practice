@@ -6,109 +6,109 @@
 ### Algorithms
 There are some algorithmic HackerRank and LeetCode problems with Python 3 solutions (with explanations sometimes...).
 - Backtracking
-  - [Combinations](https://leetcode.com/problems/combinations/) [Medium | LeetCode]
-  - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [Medium | LeetCode]
-  - [Permutations](https://leetcode.com/problems/permutations/) [Medium | LeetCode]
+  - [Combinations](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Backtracking/Combinations.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/combinations/)]
+  - [Letter Case Permutation](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Backtracking/Letter%20Case%20Permutation.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/letter-case-permutation/)]
+  - [Permutations](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Backtracking/Permutations.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/permutations/)]
 - Binary Search
-  - [Binary Search](https://leetcode.com/problems/binary-search/) [Easy | LeetCode]
-  - [First Bad Version](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
-  - [Median of Two Sorted Arrays of Different Size](https://leetcode.com/problems/median-of-two-sorted-arrays/) [Hard | LeetCode]
-  - Median of Two Sorted Arrays of Same Size
-  - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [Easy | LeetCode]
+  - [Binary Search](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Binary%20Search/Binary%20Search.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/binary-search/)]
+  - [First Bad Version](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Binary%20Search/First%20Bad%20Version.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/two-sum/)]
+  - [Median of Two Sorted Arrays of Different Size](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Binary%20Search/Median%20of%20Two%20Sorted%20Arrays%20of%20Different%20Size.ipynb) [Hard | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)] **EXPLAINED**
+  - [Median of Two Sorted Arrays of Same Size](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Binary%20Search/Median%20of%20Two%20Sorted%20Arrays%20of%20Same%20Size.ipynb) **EXPLAINED**
+  - [Search Insert Position](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Binary%20Search/Search%20Insert%20Position.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/search-insert-position/)]
 - Bit Manipulation
-  - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) Easy | LeetCode]
-  - [Power of Two](https://leetcode.com/problems/power-of-two/) [Easy | LeetCode]
-  - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) [Easy | LeetCode]
-  - [Single Number](https://leetcode.com/problems/single-number/) [Easy | LeetCode]
+  - [Number of 1 Bits](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Bit%20Manipulation/Number%20of%201%20Bits.ipynb) Easy | [LeetCode](https://leetcode.com/problems/number-of-1-bits/)]
+  - [Power of Two](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Bit%20Manipulation/Power%20of%20Two.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/power-of-two/)]
+  - [Reverse Bits](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Bit%20Manipulation/Reverse%20Bits.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/reverse-bits/)]
+  - [Single Number](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Bit%20Manipulation/Single%20Number.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/single-number/)]
 - Breadth-First Search
-  - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) [Medium | LeetCode]
+  - [Rotting Oranges](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Breadth-First%20Search/Rotting%20Oranges.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/rotting-oranges/)]
 - Constructive Algorithms
-  - [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) [Medium | HackerRank]
+  - [New Year Chaos](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Constructive%20Algorithms/New%20Year%20Chaos.ipynb) [Medium | [HackerRank](https://www.hackerrank.com/challenges/new-year-chaos/problem)] **EXPLAINED**
 - Depth-First Search
-  - [Flood Fill](https://leetcode.com/problems/flood-fill/) [Easy | LeetCode]
-  - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [Medium | LeetCode]
+  - [Flood Fill](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Depth-First%20Search/Flood%20Fill.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/flood-fill/)]
+  - [Max Area of Island](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Depth-First%20Search/Max%20Area%20of%20Island.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/max-area-of-island/)]
 - Dynamic Programming
-  - [01 Matrix](https://leetcode.com/problems/01-matrix/) [Medium | LeetCode]
-  - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [Medium | LeetCode]
-  - [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) [Medium | LeetCode]
-  - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [Medium | LeetCode]
-  - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [Medium | LeetCode]
-  - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [Medium | LeetCode]
-  - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Easy | LeetCode]
-  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [Easy | LeetCode]
+  - [01 Matrix](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/01%20Matrix.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/01-matrix/)]
+  - [Arithmetic Slices](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Arithmetic%20Slices.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/arithmetic-slices/)]
+  - [Best Sightseeing Pair](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Best%20Sightseeing%20Pair.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/best-sightseeing-pair/)] **EXPLAINED**
+  - [Best Time to Buy and Sell Stock II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)]
+  - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)]
+  - [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)]
+  - [Best Time to Buy and Sell Stock](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)]
+  - [Climbing Stairs](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Climbing%20Stairs.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/climbing-stairs/)] **EXPLAINED**
   - [Decode Ways](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Decode%20Ways.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/decode-ways/)]
-  - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [Medium | LeetCode]
-  - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [Easy | LeetCode]
-  - [House Robber II](https://leetcode.com/problems/house-robber-ii/) [Medium | LeetCode]
-  - [House Robber](https://leetcode.com/problems/house-robber/) [Medium | LeetCode]
-  - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) [Medium | LeetCode]
-  - [Jump Game](https://leetcode.com/problems/jump-game/) [Medium | LeetCode]
-  - [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) [Medium | LeetCode]
-  - [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) [Medium | LeetCode]
-  - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [Medium | LeetCode]
-  - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [Easy | LeetCode]
-  - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) [Medium | LeetCode]
-  - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [Easy | LeetCode]
-  - [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [Medium | LeetCode]
-  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [Medium | LeetCode]
-  - N-th Number of the Fibonacci Sequence (problem with solution from YouTube video [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk))
-  - [Maximal Square](https://leetcode.com/problems/maximal-square/) [Medium | LeetCode]
-  - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [Easy | LeetCode]
-  - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [Easy | LeetCode]
-  - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [Easy | LeetCode]
-  - [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [Medium | LeetCode]
-  - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [Hard | LeetCode]
-  - [Triangle](https://leetcode.com/problems/triangle/) [Medium | LeetCode]
-  - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) [Medium | LeetCode]
-  - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) [Medium | LeetCode]
-  - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) [Medium | LeetCode]
-  - [Unique Paths](https://leetcode.com/problems/unique-paths/) [Medium | LeetCode]
-  - [Word Break](https://leetcode.com/problems/word-break) [Medium | LeetCode]
+  - [Delete and Earn](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Delete%20and%20Earn.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/delete-and-earn/)] **EXPLAINED**
+  - [Fibonacci Number](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Fibonacci%20Number.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/fibonacci-number/)]
+  - [House Robber II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/House%20Robber%20II.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/house-robber-ii/)] **EXPLAINED**
+  - [House Robber](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/House%20Robber.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/house-robber/)] **EXPLAINED**
+  - [Jump Game II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Jump%20Game%20II.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/jump-game-ii/)] **EXPLAINED**
+  - [Jump Game](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Jump%20Game.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/jump-game/)] **EXPLAINED**
+  - [Matrix Block Sum](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Matrix%20Block%20Sum.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/matrix-block-sum/)]
+  - [Maximal Square](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Maximal%20Square.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/maximal-square/)]
+  - [Maximum Length of Subarray With Positive Product](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Maximum%20Length%20of%20Subarray%20With%20Positive%20Product.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)]
+  - [Maximum Product Subarray](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Maximum%20Product%20Subarray.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/)]
+  - [Maximum Subarray](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Maximum%20Subarray.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/maximum-subarray/)] **EXPLAINED**
+  - [Maximum Sum Circular Subarray](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Maximum%20Sum%20Circular%20Subarray.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/)]
+  - [Min Cost Climbing Stairs](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Min%20Cost%20Climbing%20Stairs.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)] **EXPLAINED**
+  - [Minimum Falling Path Sum](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Minimum%20Falling%20Path%20Sum.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/minimum-falling-path-sum/)]
+  - [Minimum Path Sum](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Minimum%20Path%20Sum.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/minimum-path-sum/)] **EXPLAINED**
+  - [N-th Number of the Fibonacci Sequence](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/N-th%20Number%20of%20the%20Fibonacci%20Sequence.ipynb) From YouTube video ["Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges"](https://youtu.be/oBt53YbR9Kk)) **EXPLAINED**
+  - [N-th Tribonacci Number](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/N-th%20Tribonacci%20Number.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/)] **EXPLAINED**
+  - [Pascal's Triangle](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Pascal's%20Triangle%20II.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/pascals-triangle/)]
+  - [Pascal's Triangle II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Pascal's%20Triangle.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/)]
+  - [Range Sum Query 2D - Immutable](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Range%20Sum%20Query%202D%20-%20Immutable.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/range-sum-query-2d-immutable/)]
+  - [Trapping Rain Water](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Trapping%20Rain%20Water.ipynb) [Hard | [LeetCode](https://leetcode.com/problems/trapping-rain-water/)]
+  - [Triangle](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Triangle.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/triangle/)]
+  - [Ugly Number II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Ugly%20Number%20II.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/ugly-number-ii/)] **EXPLAINED**
+  - [Unique Binary Search Trees](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Unique%20Binary%20Search%20Trees.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees/)]
+  - [Unique Paths II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Unique%20Paths%20II.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/unique-paths-ii/)]
+  - [Unique Paths](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Unique%20Paths.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/unique-paths/)] **EXPLAINED**
+  - [Word Break](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Word%20Break.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/word-break)]
 - Sliding Window
-  - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Medium | LeetCode]
-  - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [Easy | LeetCode]
-  - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Medium | LeetCode]
-  - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) [Medium | LeetCode]
+  - [Find All Anagrams in a String](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Sliding%20Window/Find%20All%20Anagrams%20in%20a%20String.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)]
+  - [Implement strStr()](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Sliding%20Window/Implement%20strStr().ipynb) [Easy | [LeetCode](https://leetcode.com/problems/implement-strstr/)]
+  - [Longest Substring Without Repeating Characters](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)]
+  - [Permutation in String](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Sliding%20Window/Permutation%20in%20String.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/permutation-in-string/)]
 - Two Pointer
-  - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [Easy | LeetCode]
-  - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [Easy | LeetCode]
-  - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Easy | LeetCode]
-  - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Medium | LeetCode]
-  - [Reverse String](https://leetcode.com/problems/reverse-string/) [Easy | LeetCode]
-  - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [Easy | LeetCode]
-  - [Rotate Array](https://leetcode.com/problems/rotate-array/) [Medium | LeetCode]
-  - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [Easy | LeetCode]
-  - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [Easy | LeetCode]
+  - [Middle of the Linked List](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Middle%20of%20the%20Linked%20List.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)]
+  - [Move Zeroes](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Move%20Zeroes.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/move-zeroes/)] **EXPLAINED**
+  - [Remove Duplicates from Sorted Array](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Remove%20Duplicates%20from%20Sorted%20Array.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)]
+  - [Remove Nth Node From End of List](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Remove%20Nth%20Node%20From%20End%20of%20List.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)]
+  - [Reverse String](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Reverse%20String.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/reverse-string/)]
+  - [Reverse Words in a String III](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Reverse%20Words%20in%20a%20String%20III.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/)]
+  - [Rotate Array](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Rotate%20Array.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/rotate-array/)]
+  - [Squares of a Sorted Array](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Squares%20of%20a%20Sorted%20Array.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)]
+  - [Two Sum II - Input Array Is Sorted](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)] **EXPLAINED**
 ___
 ### Data Structures
 - Binary Tree
-  - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) [Easy | LeetCode]
-  - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [Medium | LeetCode]
+  - [Merge Two Binary Trees](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Binary%20Tree/Merge%20Two%20Binary%20Trees.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/merge-two-binary-trees/)]
+  - [Populating Next Right Pointers in Each Node](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Binary%20Tree/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)]
 - Hash Map
-  - [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) [Easy | HackerRank]
-  - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) [Easy | LeetCode]
-  - [Two Sum](https://leetcode.com/problems/two-sum/) [Easy | LeetCode]
+  - [Ransom Note](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Ransom%20Note.ipynb) [Easy | [HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)]
+  - [Roman to Integer](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Roman%20to%20Integer.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/roman-to-integer/)]
+  - [Two Sum](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Two%20Sum.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/two-sum/)] **EXPLAINED**
 - Linked List
-  - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [Medium | LeetCode]
-  - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [Easy | LeetCode]
-  - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) [Easy | LeetCode]
+  - [Add Two Numbers](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Linked%20List/Add%20Two%20Numbers.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)]
+  - [Merge Two Sorted Lists](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Linked%20List/Merge%20Two%20Sorted%20Lists.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)]
+  - [Palindrome Linked List](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Linked%20List/Palindrome%20Linked%20List.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)] **EXPLAINED**
 - Stack
-  - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [Easy | LeetCode]
+  - [Valid Parentheses](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Stack/Valid%20Parentheses.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/valid-parentheses/)]
 - String
-  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [Easy | LeetCode]
+  - [Longest Common Prefix](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/String/Longest%20Common%20Prefix.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/longest-common-prefix/)]
 ___
 ### Statistics
-Contains a part of theory with examples (with code solution if possible) and explanations for HackerRank's **10 Days of Statistics**.
-- Mean, Median, Mode
-- Weighted Mean
-- Quartiles and Interquartile Range
-- Standard Deviation
-- Basic Probability
-- Conditional Probability
-- Permutations and Combinations
-- Binomial Distribution
-- Geometric Distribution
-- Poisson Distribution
-- Normal Distribution
-- The Central Limit Theorem
-- Pearson Correlation Coefficient
+Contains a part of theory with examples (with code solution if possible) and explanations for HackerRank's [**10 Days of Statistics**](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics).
+01. [Mean, Median, Mode](https://github.com/pai-pai/python-practice/blob/master/Statistics/01%20Mean%2C%20Median%2C%20Mode.ipynb)
+02. [Weighted Mean](https://github.com/pai-pai/python-practice/blob/master/Statistics/02%20Weighted%20Mean.ipynb)
+03. [Quartiles and Interquartile Range](https://github.com/pai-pai/python-practice/blob/master/Statistics/03%20Quartiles%20and%20Interquartile%20Range.ipynb)
+04. [Standard Deviation](https://github.com/pai-pai/python-practice/blob/master/Statistics/04%20Standard%20Deviation.ipynb)
+05. [Basic Probability](https://github.com/pai-pai/python-practice/blob/master/Statistics/05%20Basic%20Probability.ipynb)
+06. [Conditional Probability](https://github.com/pai-pai/python-practice/blob/master/Statistics/06%20Conditional%20Probability.ipynb)
+07. [Permutations and Combinations](https://github.com/pai-pai/python-practice/blob/master/Statistics/07%20Permutations%20and%20Combinations.ipynb)
+08. [Binomial Distribution](https://github.com/pai-pai/python-practice/blob/master/Statistics/08%20Binomial%20Distribution.ipynb)
+09. [Geometric Distribution](https://github.com/pai-pai/python-practice/blob/master/Statistics/09%20Geometric%20Distribution.ipynb)
+10. [Poisson Distribution](https://github.com/pai-pai/python-practice/blob/master/Statistics/10%20Poisson%20Distribution.ipynb)
+11. [Normal Distribution](https://github.com/pai-pai/python-practice/blob/master/Statistics/11%20Normal%20Distribution.ipynb)
+12. [The Central Limit Theorem](https://github.com/pai-pai/python-practice/blob/master/Statistics/12%20The%20Central%20Limit%20Theorem.ipynb)
+13. [Pearson Correlation Coefficient](https://github.com/pai-pai/python-practice/blob/master/Statistics/13%20Pearson%20Correlation%20Coefficient.ipynb)
