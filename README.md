@@ -66,6 +66,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Unique Binary Search Trees](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Unique%20Binary%20Search%20Trees.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees/)]
   - [Unique Paths II](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Unique%20Paths%20II.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/unique-paths-ii/)]
   - [Unique Paths](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Unique%20Paths.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/unique-paths/)] **EXPLAINED**
+  - [Wiggle Subsequence](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Wiggle%20Subsequence.ipynb) [Medium|[LeetCode](https://leetcode.com/problems/wiggle-subsequence/)]
   - [Word Break](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Dynamic%20Programming/Word%20Break.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/word-break)]
 - Sliding Window
   - [Find All Anagrams in a String](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Sliding%20Window/Find%20All%20Anagrams%20in%20a%20String.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)]
