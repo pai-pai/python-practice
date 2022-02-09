@@ -100,6 +100,7 @@ ___
   - [Populating Next Right Pointers in Each Node](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Binary%20Tree/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)]
 - Hash Map
   - [Find the Difference](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Find%20the%20Difference.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/find-the-difference/)]
+  - [K-diff Pairs in an Array](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/K-diff%20Pairs%20in%20an%20Array.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/k-diff-pairs-in-an-array/)]
   - [Ransom Note](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Ransom%20Note.ipynb) [Easy | [HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)]
   - [Roman to Integer](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Roman%20to%20Integer.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/roman-to-integer/)]
   - [Two Sum](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Two%20Sum.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/two-sum/)] **EXPLAINED**
