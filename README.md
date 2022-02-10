@@ -84,6 +84,7 @@ There are some algorithmic HackerRank and LeetCode problems with Python 3 soluti
   - [Permutation in String](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Sliding%20Window/Permutation%20in%20String.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/permutation-in-string/)]
 - Two Pointer
   - [Is Subsequence](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Is%20Subsequence.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/is-subsequence/)]
+  - [Merge Sorted Array](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Merge%20Sorted%20Array.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/merge-sorted-array/)]
   - [Middle of the Linked List](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Middle%20of%20the%20Linked%20List.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)]
   - [Move Zeroes](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Move%20Zeroes.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/move-zeroes/)] **EXPLAINED**
   - [Remove Duplicates from Sorted Array](https://github.com/pai-pai/python-practice/blob/master/Algorithms/Two%20Pointer/Remove%20Duplicates%20from%20Sorted%20Array.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)]
