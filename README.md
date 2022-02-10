@@ -104,6 +104,7 @@ ___
   - [K-diff Pairs in an Array](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/K-diff%20Pairs%20in%20an%20Array.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/k-diff-pairs-in-an-array/)]
   - [Ransom Note](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Ransom%20Note.ipynb) [Easy | [HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)]
   - [Roman to Integer](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Roman%20to%20Integer.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/roman-to-integer/)]
+  - [Subarray Sum Equals K](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Subarray$20Sum%20Equals%20K.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)] **EXPLAINED**
   - [Two Sum](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Hash%20Map/Two%20Sum.ipynb) [Easy | [LeetCode](https://leetcode.com/problems/two-sum/)] **EXPLAINED**
 - Linked List
   - [Add Two Numbers](https://github.com/pai-pai/python-practice/blob/master/Data%20Structures/Linked%20List/Add%20Two%20Numbers.ipynb) [Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/)]
